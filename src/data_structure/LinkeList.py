@@ -172,12 +172,12 @@ print(f"Size of item in linked list after insert: {linked_list.get_size()}")
 
 print("************************************************************")
 
-print(f"Size of item in linked list before remove: {linked_list.get_size()}")
-print("============================")
-linked_list.remove(3)
-print(f"Size of item in linked list after remove: {linked_list.get_size()}")
-
-print("************************************************************")
-
-linked_list.update(89, 3)
+# print(f"Size of item in linked list before remove: {linked_list.get_size()}")
+# print("============================")
+# linked_list.remove(3)
+# print(f"Size of item in linked list after remove: {linked_list.get_size()}")
+#
+# print("************************************************************")
+#
+# linked_list.update(89, 3)
 
